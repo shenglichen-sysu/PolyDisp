@@ -1,1 +1,6 @@
-
+## input for PolyDisp
+name = ttFeCrAl
+elements = Fe Cr Al
+stoichiometry = 0.702 0.201 0.097
+Eds = 40 40 40
+E_max = 1e3
